@@ -1,0 +1,13 @@
+C:\Users\adminvm.adminvm\source\repos\Case_Study01_Analog_Watch\bin\Debug\netcoreapp3.1\Case_Study01_Analog_Watch.exe
+C:\Users\adminvm.adminvm\source\repos\Case_Study01_Analog_Watch\bin\Debug\netcoreapp3.1\Case_Study01_Analog_Watch.deps.json
+C:\Users\adminvm.adminvm\source\repos\Case_Study01_Analog_Watch\bin\Debug\netcoreapp3.1\Case_Study01_Analog_Watch.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\Case_Study01_Analog_Watch\bin\Debug\netcoreapp3.1\Case_Study01_Analog_Watch.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\Case_Study01_Analog_Watch\bin\Debug\netcoreapp3.1\Case_Study01_Analog_Watch.dll
+C:\Users\adminvm.adminvm\source\repos\Case_Study01_Analog_Watch\bin\Debug\netcoreapp3.1\Case_Study01_Analog_Watch.pdb
+C:\Users\adminvm.adminvm\source\repos\Case_Study01_Analog_Watch\obj\Debug\netcoreapp3.1\Case_Study01_Analog_Watch.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\Case_Study01_Analog_Watch\obj\Debug\netcoreapp3.1\Case_Study01_Analog_Watch.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\Case_Study01_Analog_Watch\obj\Debug\netcoreapp3.1\Case_Study01_Analog_Watch.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\Case_Study01_Analog_Watch\obj\Debug\netcoreapp3.1\Case_Study01_Analog_Watch.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\Case_Study01_Analog_Watch\obj\Debug\netcoreapp3.1\Case_Study01_Analog_Watch.dll
+C:\Users\adminvm.adminvm\source\repos\Case_Study01_Analog_Watch\obj\Debug\netcoreapp3.1\Case_Study01_Analog_Watch.pdb
+C:\Users\adminvm.adminvm\source\repos\Case_Study01_Analog_Watch\obj\Debug\netcoreapp3.1\Case_Study01_Analog_Watch.genruntimeconfig.cache
